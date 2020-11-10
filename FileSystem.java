@@ -19,6 +19,10 @@ import java.security.NoSuchAlgorithmException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat; 
 
+
+//Danny - abc123456 -> admin
+//Kenny - abc123456 -> student
+
 public class FileSystem{
     //array list of files for the current logged in user
 
